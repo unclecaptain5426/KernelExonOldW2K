@@ -18,3 +18,5 @@ crypt32.dll
 files from vista folder
 
 This is for educational purposes only.
+
+Note: You are on your own doing this.
