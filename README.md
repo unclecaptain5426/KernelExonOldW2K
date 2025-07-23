@@ -1,4 +1,4 @@
-# KernelExonOldW2K
+# KernelExonOldW2K (Unofficial Guide)
 To get it to work on Windows 2000 RTM/SP1/SP2/SP3, you'll need to replace the files to the ones from Windows 2000 Extended Kernel v3.1lM after installing UUR2/UURollup:
 
 advapi32.dll
